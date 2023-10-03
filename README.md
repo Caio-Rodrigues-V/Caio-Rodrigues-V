@@ -12,4 +12,11 @@
 
 </div><br/>
 
-Apaixonado por programação
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{/Caio-Rodrigues-V}/count.svg" /></p> 
+<br>
+</div>
+
+
+
