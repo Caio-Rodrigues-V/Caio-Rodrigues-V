@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aikayanorj)
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Rodrigues-V&show_icons=true&theme=onedark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Rodrigues-V&layout=compact)
 ## Tecnologia que eu uso no meu dia
 
 <div style ="display: inline_block"><br/>
