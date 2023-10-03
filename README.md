@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+
 ### Olá eu sou Caio Rodrigues  👻
 
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiorodriguesrj)
@@ -5,6 +8,14 @@
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Rodrigues-V&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Rodrigues-V&layout=compact)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caio-Rodrigues-V&bg_color=000000&color=7e3a79&line=56225d&point=b031c9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
 ## Tecnologia que eu uso no meu dia
 
 <div style ="display: inline_block"><br/>
@@ -12,11 +23,11 @@
 
 </div><br/>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{/Caio-Rodrigues-V}/count.svg" /></p> 
-<br>
-</div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
 
 
 
