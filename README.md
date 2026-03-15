@@ -1,6 +1,18 @@
 <div align="center">
-<div align="center">
   <img src="./assets/tenor.gif" width="100%" alt="Senbonzakura petals" />
+
+# Caio Rodrigues
+
+### Java • Python • Automação
+
+<p>
+  Treinando lógica, construindo projetos e evoluindo um commit por vez.
+</p>
+
+<p>
+  <strong>Senbonzakura mode: active.</strong>
+</p>
+</div>
 # Caio Rodrigues
 
 ### Java • Python • Automação
