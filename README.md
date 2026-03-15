@@ -60,10 +60,9 @@
 
 - [Projeto 1](https://github.com/Caio-Rodrigues-V/discord-bot)
 - [Projeto 2](https://github.com/Caio-Rodrigues-V/Selenium)
-- [Projeto 3]((https://github.com/Caio-Rodrigues-V/AGENT-ia-))
+- [Projeto 3](https://github.com/Caio-Rodrigues-V/AGENT-ia-)
 
----
 
 ## Contato
 
-- LinkedIn: [](https://www.linkedin.com/in/caiorodriguesrj/)
+- LinkedIn: [Caio Rodrigues](https://www.linkedin.com/in/caiorodriguesrj/)
