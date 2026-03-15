@@ -14,9 +14,9 @@ Estudante de programação focado em Java, Python e automação.
 [2 cards apenas]
 
 ## Projetos em destaque
-- Projeto 1
-- Projeto 2
-- Projeto 3
+- [ Projeto 1](https://github.com/Caio-Rodrigues-V/discord-bot)
+- [ Projeto 2](https://github.com/Caio-Rodrigues-V/Selenium)
+- [ Projeto 3](https://github.com/Caio-Rodrigues-V/AGENT-ia-)
 
 ## Contato
 LinkedIn
