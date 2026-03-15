@@ -1,5 +1,6 @@
 <div align="center">
-
+<div align="center">
+  <img src="./assets/tenor.gif" width="100%" alt="Senbonzakura petals" />
 # Caio Rodrigues
 
 ### Java • Python • Automação
