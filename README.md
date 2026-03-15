@@ -9,10 +9,10 @@
 </p>
 
 <p>
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/caiorodriguesrj/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="SEU_LINK_GITHUB">
+  <a href="[SEU_LINK_GITHUB](https://github.com/Caio-Rodrigues-V)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -66,4 +66,4 @@
 
 ## Contato
 
-- LinkedIn: SEU_LINK_LINKEDIN
+- LinkedIn: [](https://www.linkedin.com/in/caiorodriguesrj/)
