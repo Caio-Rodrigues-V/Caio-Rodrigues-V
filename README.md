@@ -2,16 +2,17 @@
 
 # Caio Vicente | Caio Rodrigues
 
-### Backend • Automacao • Bots • Python • Java
+### Backend • Automacao • IA • Bots • Python • Java
 
 <p>
-  Desenvolvedor em evolucao, criando automacoes, bots e sistemas que resolvem problemas reais.
+  Desenvolvedor em evolucao, criando automacoes, bots, dashboards e sistemas com IA que resolvem problemas reais.
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java" />
-  <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium" />
+  <img src="https://img.shields.io/badge/IA-111827?style=for-the-badge&logo=openai&logoColor=10A37F" alt="IA" />
+  <img src="https://img.shields.io/badge/Automacao-111827?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Automacao" />
   <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="APIs" />
 </p>
 
@@ -33,15 +34,15 @@
 
 ```python
 class CaioVicente:
-    foco = "Backend, automacao e bots"
+    foco = "Backend, automacao, bots e IA aplicada"
+    construindo = ["agentes de IA", "discadores", "dashboards", "bots", "integracoes"]
     estudando = ["Python", "Java", "Selenium", "APIs", "Banco de Dados"]
-    objetivo = "Criar projetos uteis, aprender rapido e evoluir todos os dias"
     filosofia = "Um commit por vez. Melhor hoje do que ontem."
 ```
 
 - Desenvolvedor em formacao, focado em pratica e projetos reais.
 - Curto transformar tarefa repetitiva em sistema, bot ou automacao.
-- Tenho evoluido com Python, Java, Selenium, Git/GitHub e banco de dados.
+- Estou desenvolvendo projetos com IA, atendimento automatizado, discagem, dashboards e integracoes.
 - Gosto de aprender construindo: erro, ajusto, testo e subo melhor.
 
 ---
@@ -49,13 +50,14 @@ class CaioVicente:
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,selenium,git,github,vscode,html,css,js,mysql,postgres" alt="Stacks" />
+  <img src="https://skillicons.dev/icons?i=python,java,selenium,git,github,vscode,html,css,js,mysql,postgres,flask" alt="Stacks" />
 </div>
 
 <br />
 
 | Area | Tecnologias e foco |
 | --- | --- |
+| IA aplicada | Agentes, automacoes inteligentes, atendimento e fluxos com voz |
 | Linguagens | Python, Java, JavaScript |
 | Automacao | Selenium, bots, scripts e integracoes |
 | Backend | APIs, Flask, regras de negocio e dashboards |
@@ -64,14 +66,26 @@ class CaioVicente:
 
 ---
 
+## IA e automacoes em desenvolvimento
+
+| Projeto | O que estou construindo | Stack/Foco |
+| --- | --- | --- |
+| [AGENT-ia-](https://github.com/Caio-Rodrigues-V/AGENT-ia-) | Estudos e experimentos com agentes de IA para automatizar tarefas e fluxos. | IA, Python, automacao |
+| [CallCenterIA-DDM](https://github.com/Caio-Rodrigues-V/CallCenterIA-DDM) | Sistema de call center com IA, discagem e operacao DDM. | IA, voz, backend, automacao |
+| [vapi](https://github.com/Caio-Rodrigues-V/vapi) | Integracoes com chamadas, assistentes de voz e automacao de atendimento. | Vapi, APIs, voz |
+| [ddm-disparador](https://github.com/Caio-Rodrigues-V/ddm-disparador) | Disparador/operacao automatizada para fluxos DDM. | Python, automacao, campanhas |
+| [dashboard](https://github.com/Caio-Rodrigues-V/dashboard) | Painel para visualizar dados, resultados e rotina operacional. | Dashboard, backend, dados |
+
+---
+
 ## Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/Caio-Rodrigues-V/discord-bot">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=discord-bot&theme=github_dark&hide_border=true" alt="discord-bot" />
+  <a href="https://github.com/Caio-Rodrigues-V/CallCenterIA-DDM">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=CallCenterIA-DDM&theme=github_dark&hide_border=true" alt="CallCenterIA-DDM" />
   </a>
-  <a href="https://github.com/Caio-Rodrigues-V/Selenium">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=Selenium&theme=github_dark&hide_border=true" alt="Selenium" />
+  <a href="https://github.com/Caio-Rodrigues-V/vapi">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=vapi&theme=github_dark&hide_border=true" alt="vapi" />
   </a>
 </div>
 
@@ -97,9 +111,9 @@ class CaioVicente:
 
 ## Agora
 
-- Aprofundando automacoes com Python e Selenium.
+- Desenvolvendo projetos com IA aplicada, voz e automacao.
 - Criando bots e ferramentas para tarefas reais.
-- Estudando backend, banco de dados e integracoes.
+- Aprofundando backend, banco de dados e integracoes.
 - Mantendo constancia no GitHub, commit por commit.
 
 ---
