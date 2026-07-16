@@ -74,15 +74,21 @@ class CaioVicente:
   <img src="https://img.shields.io/badge/Foco-IA%20%2B%20Automacao-F97316?style=for-the-badge" alt="Foco" />
 </div>
 
-<br />
+---
 
-| Linguagens | Onde aplico |
-| --- | --- |
-| Python | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
-| Java | Logica, estudos de backend e base de programacao |
-| JavaScript | Interfaces, paineis e integracoes web |
-| SQL | Consultas, dados operacionais e dashboards |
-| HTML/CSS | Estrutura e visual de telas/prototipos |
+## Linguagens que mais domino
+
+<div align="center">
+
+| Linguagem | Nivel | Onde uso melhor |
+| --- | --- | --- |
+| Python | <img src="https://img.shields.io/badge/90%25-3776AB?style=flat-square&label=forte&labelColor=111827" alt="Python 90" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| Java | <img src="https://img.shields.io/badge/75%25-F97316?style=flat-square&label=solido&labelColor=111827" alt="Java 75" /> | Logica, backend, POO e base de programacao |
+| SQL | <img src="https://img.shields.io/badge/70%25-336791?style=flat-square&label=solido&labelColor=111827" alt="SQL 70" /> | Consultas, dados operacionais, filtros e dashboards |
+| JavaScript | <img src="https://img.shields.io/badge/60%25-F7DF1E?style=flat-square&label=em%20evolucao&labelColor=111827" alt="JavaScript 60" /> | Interfaces, paineis, interacoes web e integracoes |
+| HTML/CSS | <img src="https://img.shields.io/badge/65%25-E34F26?style=flat-square&label=em%20evolucao&labelColor=111827" alt="HTML CSS 65" /> | Estrutura visual, paginas, prototipos e ajustes de layout |
+
+</div>
 
 ---
 
