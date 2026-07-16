@@ -66,6 +66,26 @@ class CaioVicente:
 
 ---
 
+## Resumo do GitHub
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Contribuicoes-840%2B-238636?style=for-the-badge&logo=github" alt="Contribuicoes" />
+  <img src="https://img.shields.io/badge/Repositorios-30%2B-58A6FF?style=for-the-badge&logo=github" alt="Repositorios" />
+  <img src="https://img.shields.io/badge/Foco-IA%20%2B%20Automacao-F97316?style=for-the-badge" alt="Foco" />
+</div>
+
+<br />
+
+| Linguagens | Onde aplico |
+| --- | --- |
+| Python | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| Java | Logica, estudos de backend e base de programacao |
+| JavaScript | Interfaces, paineis e integracoes web |
+| SQL | Consultas, dados operacionais e dashboards |
+| HTML/CSS | Estrutura e visual de telas/prototipos |
+
+---
+
 ## IA e automacoes em desenvolvimento
 
 | Projeto | O que estou construindo | Foco |
