@@ -22,7 +22,7 @@ jobs:
 
       - name: Update language metrics
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_METRICS_TOKEN }}
           PROFILE_USERNAME: Caio-Rodrigues-V
         run: python scripts/update_profile_metrics.py
 
