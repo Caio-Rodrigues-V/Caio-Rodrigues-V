@@ -79,17 +79,17 @@ class CaioVicente:
 ## Linguagens que mais uso
 
 <!-- LANG_METRICS_START -->
-
-| Linguagem | Uso nos repos | Onde aplico melhor |
+| Linguagem | Uso real nos repos | Onde aplico melhor |
 | --- | --- | --- |
-| Python | <img src="https://img.shields.io/badge/90.0%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 90.0%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
-| Java | <img src="https://img.shields.io/badge/75.0%25-F97316?style=flat-square&label=uso&labelColor=111827" alt="Java 75.0%" /> | Logica, backend, POO e base de programacao |
-| SQL | <img src="https://img.shields.io/badge/70.0%25-336791?style=flat-square&label=uso&labelColor=111827" alt="SQL 70.0%" /> | Consultas, dados operacionais, filtros e dashboards |
-| JavaScript | <img src="https://img.shields.io/badge/60.0%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 60.0%" /> | Interfaces, paineis, interacoes web e integracoes |
-| HTML/CSS | <img src="https://img.shields.io/badge/65.0%25-E34F26?style=flat-square&label=uso&labelColor=111827" alt="HTML CSS 65.0%" /> | Estrutura visual, paginas, prototipos e ajustes de layout |
+| JavaScript | <img src="https://img.shields.io/badge/40.8%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 40.8%" /> | Interfaces, paineis, interacoes web e integracoes |
+| TypeScript | <img src="https://img.shields.io/badge/40.2%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 40.2%" /> | Interfaces tipadas, paineis e apps web |
+| Python | <img src="https://img.shields.io/badge/8.6%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 8.6%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| Go | <img src="https://img.shields.io/badge/5.0%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="Go 5.0%" /> | Projetos, estudos e evolucao pratica |
+| PLpgSQL | <img src="https://img.shields.io/badge/2.7%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PLpgSQL 2.7%" /> | Projetos, estudos e evolucao pratica |
+| HTML | <img src="https://img.shields.io/badge/2.0%25-E34F26?style=flat-square&label=uso&labelColor=111827" alt="HTML 2.0%" /> | Estrutura de paginas, prototipos e telas |
+| CSS | <img src="https://img.shields.io/badge/0.7%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 0.7%" /> | Layout, responsividade e acabamento visual |
 
-<sub>Metricas atualizadas automaticamente por GitHub Actions.</sub>
-
+<sub>Atualizado automaticamente em 16/07/2026 14:30 UTC, analisando 36 repositorios publicos.</sub>
 <!-- LANG_METRICS_END -->
 
 ---
