@@ -68,53 +68,57 @@ class CaioVicente:
 
 ## IA e automacoes em desenvolvimento
 
-| Projeto | O que estou construindo | Stack/Foco |
+| Projeto | O que estou construindo | Foco |
 | --- | --- | --- |
-| [AGENT-ia-](https://github.com/Caio-Rodrigues-V/AGENT-ia-) | Estudos e experimentos com agentes de IA para automatizar tarefas e fluxos. | IA, Python, automacao |
-| [CallCenterIA-DDM](https://github.com/Caio-Rodrigues-V/CallCenterIA-DDM) | Sistema de call center com IA, discagem e operacao DDM. | IA, voz, backend, automacao |
-| [vapi](https://github.com/Caio-Rodrigues-V/vapi) | Integracoes com chamadas, assistentes de voz e automacao de atendimento. | Vapi, APIs, voz |
-| [ddm-disparador](https://github.com/Caio-Rodrigues-V/ddm-disparador) | Disparador/operacao automatizada para fluxos DDM. | Python, automacao, campanhas |
-| [dashboard](https://github.com/Caio-Rodrigues-V/dashboard) | Painel para visualizar dados, resultados e rotina operacional. | Dashboard, backend, dados |
+| [AGENT-ia-](https://github.com/Caio-Rodrigues-V/AGENT-ia-) | Experimentos com agentes de IA para automatizar tarefas e fluxos. | `IA` `Python` `Automacao` |
+| [CallCenterIA-DDM](https://github.com/Caio-Rodrigues-V/CallCenterIA-DDM) | Call center com IA, discagem, atendimento e operacao DDM. | `IA` `Voz` `Backend` |
+| [vapi](https://github.com/Caio-Rodrigues-V/vapi) | Integracoes com chamadas, assistentes de voz e atendimento automatizado. | `Vapi` `APIs` `Voz` |
+| [ddm-disparador](https://github.com/Caio-Rodrigues-V/ddm-disparador) | Disparador automatizado para campanhas e fluxos DDM. | `Python` `Automacao` `Campanhas` |
+| [dashboard](https://github.com/Caio-Rodrigues-V/dashboard) | Painel para dados, resultados e rotina operacional. | `Dashboard` `Dados` `Backend` |
 
 ---
 
 ## Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/Caio-Rodrigues-V/CallCenterIA-DDM">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=CallCenterIA-DDM&theme=github_dark&hide_border=true" alt="CallCenterIA-DDM" />
-  </a>
-  <a href="https://github.com/Caio-Rodrigues-V/vapi">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=vapi&theme=github_dark&hide_border=true" alt="vapi" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Caio-Rodrigues-V/AGENT-ia-">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=AGENT-ia-&theme=github_dark&hide_border=true" alt="AGENT-ia" />
-  </a>
-  <a href="https://github.com/Caio-Rodrigues-V/ddm-disparador">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Caio-Rodrigues-V&repo=ddm-disparador&theme=github_dark&hide_border=true" alt="ddm-disparador" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>CallCenterIA-DDM</h3>
+      <p>Sistema de call center com IA, discagem e operacao DDM.</p>
+      <p><code>IA</code> <code>Voz</code> <code>Backend</code> <code>Automacao</code></p>
+      <a href="https://github.com/Caio-Rodrigues-V/CallCenterIA-DDM">Ver repositorio</a>
+    </td>
+    <td width="50%">
+      <h3>vapi</h3>
+      <p>Integracoes com assistentes de voz, chamadas e atendimento automatizado.</p>
+      <p><code>Vapi</code> <code>APIs</code> <code>Voz</code></p>
+      <a href="https://github.com/Caio-Rodrigues-V/vapi">Ver repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AGENT-ia-</h3>
+      <p>Projeto de estudos e testes com agentes de IA aplicados a automacoes.</p>
+      <p><code>IA</code> <code>Python</code> <code>Automacao</code></p>
+      <a href="https://github.com/Caio-Rodrigues-V/AGENT-ia-">Ver repositorio</a>
+    </td>
+    <td width="50%">
+      <h3>ddm-disparador</h3>
+      <p>Automacao para disparos, campanhas e operacao DDM.</p>
+      <p><code>Python</code> <code>Campanhas</code> <code>Automacao</code></p>
+      <a href="https://github.com/Caio-Rodrigues-V/ddm-disparador">Ver repositorio</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Estatisticas
+## Em progresso agora
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Caio-Rodrigues-V&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Rodrigues-V&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</div>
-
----
-
-## Agora
-
-- Desenvolvendo projetos com IA aplicada, voz e automacao.
-- Criando bots e ferramentas para tarefas reais.
-- Aprofundando backend, banco de dados e integracoes.
-- Mantendo constancia no GitHub, commit por commit.
+- IA aplicada a atendimento, voz e automacao.
+- Bots e ferramentas para tarefas reais.
+- Dashboards para acompanhar operacoes e resultados.
+- Backend, banco de dados e integracoes.
 
 ---
 
