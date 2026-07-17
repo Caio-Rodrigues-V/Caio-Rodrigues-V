@@ -81,15 +81,15 @@ class CaioVicente:
 <!-- LANG_METRICS_START -->
 | Linguagem | Uso real nos repos | Onde aplico melhor |
 | --- | --- | --- |
-| JavaScript | <img src="https://img.shields.io/badge/40.8%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 40.8%" /> | Interfaces, paineis, interacoes web e integracoes |
-| TypeScript | <img src="https://img.shields.io/badge/40.2%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 40.2%" /> | Interfaces tipadas, paineis e apps web |
-| Python | <img src="https://img.shields.io/badge/8.6%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 8.6%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
-| Go | <img src="https://img.shields.io/badge/5.0%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="Go 5.0%" /> | Projetos, estudos e evolucao pratica |
-| PLpgSQL | <img src="https://img.shields.io/badge/2.7%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PLpgSQL 2.7%" /> | Projetos, estudos e evolucao pratica |
+| JavaScript | <img src="https://img.shields.io/badge/40.6%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 40.6%" /> | Interfaces, paineis, interacoes web e integracoes |
+| TypeScript | <img src="https://img.shields.io/badge/40.4%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 40.4%" /> | Interfaces tipadas, paineis e apps web |
+| Python | <img src="https://img.shields.io/badge/8.5%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 8.5%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| Go | <img src="https://img.shields.io/badge/4.9%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="Go 4.9%" /> | Projetos, estudos e evolucao pratica |
+| PLpgSQL | <img src="https://img.shields.io/badge/2.8%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PLpgSQL 2.8%" /> | Projetos, estudos e evolucao pratica |
 | HTML | <img src="https://img.shields.io/badge/2.0%25-E34F26?style=flat-square&label=uso&labelColor=111827" alt="HTML 2.0%" /> | Estrutura de paginas, prototipos e telas |
 | CSS | <img src="https://img.shields.io/badge/0.7%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 0.7%" /> | Layout, responsividade e acabamento visual |
 
-<sub>Atualizado automaticamente em 16/07/2026 14:30 UTC, analisando 36 repositorios publicos.</sub>
+<sub>Atualizado automaticamente em 17/07/2026 10:58 UTC, analisando 36 repositorios publicos.</sub>
 <!-- LANG_METRICS_END -->
 
 ---
