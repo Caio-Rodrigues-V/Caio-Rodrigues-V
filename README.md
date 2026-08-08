@@ -82,14 +82,14 @@ class CaioVicente:
 | Linguagem | Uso real nos repos | Onde aplico melhor |
 | --- | --- | --- |
 | TypeScript | <img src="https://img.shields.io/badge/39.8%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 39.8%" /> | Interfaces tipadas, paineis e apps web |
-| JavaScript | <img src="https://img.shields.io/badge/37.5%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 37.5%" /> | Interfaces, paineis, interacoes web e integracoes |
-| Python | <img src="https://img.shields.io/badge/11.2%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 11.2%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| JavaScript | <img src="https://img.shields.io/badge/37.4%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 37.4%" /> | Interfaces, paineis, interacoes web e integracoes |
+| Python | <img src="https://img.shields.io/badge/11.1%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 11.1%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
 | Go | <img src="https://img.shields.io/badge/4.5%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="Go 4.5%" /> | Projetos, estudos e evolucao pratica |
 | HTML | <img src="https://img.shields.io/badge/3.6%25-E34F26?style=flat-square&label=uso&labelColor=111827" alt="HTML 3.6%" /> | Estrutura de paginas, prototipos e telas |
 | PLpgSQL | <img src="https://img.shields.io/badge/2.6%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PLpgSQL 2.6%" /> | Projetos, estudos e evolucao pratica |
 | CSS | <img src="https://img.shields.io/badge/0.9%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 0.9%" /> | Layout, responsividade e acabamento visual |
 
-<sub>Atualizado automaticamente em 07/08/2026 10:12 UTC, analisando 42 repositorios publicos.</sub>
+<sub>Atualizado automaticamente em 08/08/2026 09:56 UTC, analisando 42 repositorios publicos.</sub>
 <!-- LANG_METRICS_END -->
 
 ---
