@@ -81,15 +81,15 @@ class CaioVicente:
 <!-- LANG_METRICS_START -->
 | Linguagem | Uso real nos repos | Onde aplico melhor |
 | --- | --- | --- |
-| Python | <img src="https://img.shields.io/badge/53.0%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 53.0%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
-| TypeScript | <img src="https://img.shields.io/badge/20.5%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 20.5%" /> | Interfaces tipadas, paineis e apps web |
-| JavaScript | <img src="https://img.shields.io/badge/19.8%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 19.8%" /> | Interfaces, paineis, interacoes web e integracoes |
+| Python | <img src="https://img.shields.io/badge/52.8%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 52.8%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| TypeScript | <img src="https://img.shields.io/badge/20.6%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 20.6%" /> | Interfaces tipadas, paineis e apps web |
+| JavaScript | <img src="https://img.shields.io/badge/20.0%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 20.0%" /> | Interfaces, paineis, interacoes web e integracoes |
 | Go | <img src="https://img.shields.io/badge/2.3%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="Go 2.3%" /> | Projetos, estudos e evolucao pratica |
 | HTML | <img src="https://img.shields.io/badge/2.3%25-E34F26?style=flat-square&label=uso&labelColor=111827" alt="HTML 2.3%" /> | Estrutura de paginas, prototipos e telas |
 | PLpgSQL | <img src="https://img.shields.io/badge/1.3%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PLpgSQL 1.3%" /> | Projetos, estudos e evolucao pratica |
 | CSS | <img src="https://img.shields.io/badge/0.6%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 0.6%" /> | Layout, responsividade e acabamento visual |
 
-<sub>Atualizado automaticamente em 26/08/2026 09:59 UTC, analisando 46 repositorios publicos.</sub>
+<sub>Atualizado automaticamente em 27/08/2026 19:52 UTC, analisando 47 repositorios publicos.</sub>
 <!-- LANG_METRICS_END -->
 
 ---
