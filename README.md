@@ -81,15 +81,15 @@ class CaioVicente:
 <!-- LANG_METRICS_START -->
 | Linguagem | Uso real nos repos | Onde aplico melhor |
 | --- | --- | --- |
-| Python | <img src="https://img.shields.io/badge/52.6%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 52.6%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| Python | <img src="https://img.shields.io/badge/52.5%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 52.5%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
 | TypeScript | <img src="https://img.shields.io/badge/20.6%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 20.6%" /> | Interfaces tipadas, paineis e apps web |
-| JavaScript | <img src="https://img.shields.io/badge/20.2%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 20.2%" /> | Interfaces, paineis, interacoes web e integracoes |
+| JavaScript | <img src="https://img.shields.io/badge/20.3%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 20.3%" /> | Interfaces, paineis, interacoes web e integracoes |
 | Go | <img src="https://img.shields.io/badge/2.3%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="Go 2.3%" /> | Projetos, estudos e evolucao pratica |
 | HTML | <img src="https://img.shields.io/badge/2.3%25-E34F26?style=flat-square&label=uso&labelColor=111827" alt="HTML 2.3%" /> | Estrutura de paginas, prototipos e telas |
 | PLpgSQL | <img src="https://img.shields.io/badge/1.3%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PLpgSQL 1.3%" /> | Projetos, estudos e evolucao pratica |
 | CSS | <img src="https://img.shields.io/badge/0.6%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 0.6%" /> | Layout, responsividade e acabamento visual |
 
-<sub>Atualizado automaticamente em 01/09/2026 14:10 UTC, analisando 47 repositorios publicos.</sub>
+<sub>Atualizado automaticamente em 02/09/2026 13:42 UTC, analisando 47 repositorios publicos.</sub>
 <!-- LANG_METRICS_END -->
 
 ---
