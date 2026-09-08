@@ -81,15 +81,15 @@ class CaioVicente:
 <!-- LANG_METRICS_START -->
 | Linguagem | Uso real nos repos | Onde aplico melhor |
 | --- | --- | --- |
-| JavaScript | <img src="https://img.shields.io/badge/48.9%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 48.9%" /> | Interfaces, paineis, interacoes web e integracoes |
-| Python | <img src="https://img.shields.io/badge/25.4%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 25.4%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
+| JavaScript | <img src="https://img.shields.io/badge/48.8%25-F7DF1E?style=flat-square&label=uso&labelColor=111827" alt="JavaScript 48.8%" /> | Interfaces, paineis, interacoes web e integracoes |
+| Python | <img src="https://img.shields.io/badge/25.3%25-3776AB?style=flat-square&label=uso&labelColor=111827" alt="Python 25.3%" /> | Automacoes, bots, APIs, IA aplicada e scripts operacionais |
 | TypeScript | <img src="https://img.shields.io/badge/10.0%25-3178C6?style=flat-square&label=uso&labelColor=111827" alt="TypeScript 10.0%" /> | Interfaces tipadas, paineis e apps web |
-| PHP | <img src="https://img.shields.io/badge/7.9%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PHP 7.9%" /> | Projetos, estudos e evolucao pratica |
-| CSS | <img src="https://img.shields.io/badge/4.4%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 4.4%" /> | Layout, responsividade e acabamento visual |
+| PHP | <img src="https://img.shields.io/badge/7.8%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PHP 7.8%" /> | Projetos, estudos e evolucao pratica |
+| CSS | <img src="https://img.shields.io/badge/4.5%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 4.5%" /> | Layout, responsividade e acabamento visual |
 | HTML | <img src="https://img.shields.io/badge/1.5%25-E34F26?style=flat-square&label=uso&labelColor=111827" alt="HTML 1.5%" /> | Estrutura de paginas, prototipos e telas |
 | Go | <img src="https://img.shields.io/badge/1.1%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="Go 1.1%" /> | Projetos, estudos e evolucao pratica |
 
-<sub>Atualizado automaticamente em 07/09/2026 15:05 UTC, analisando 48 repositorios publicos.</sub>
+<sub>Atualizado automaticamente em 08/09/2026 13:40 UTC, analisando 48 repositorios publicos.</sub>
 <!-- LANG_METRICS_END -->
 
 ---
