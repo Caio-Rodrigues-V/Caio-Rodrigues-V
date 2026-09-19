@@ -89,7 +89,7 @@ class CaioVicente:
 | PLpgSQL | <img src="https://img.shields.io/badge/1.3%25-6B7280?style=flat-square&label=uso&labelColor=111827" alt="PLpgSQL 1.3%" /> | Projetos, estudos e evolucao pratica |
 | CSS | <img src="https://img.shields.io/badge/0.9%25-1572B6?style=flat-square&label=uso&labelColor=111827" alt="CSS 0.9%" /> | Layout, responsividade e acabamento visual |
 
-<sub>Atualizado automaticamente em 18/09/2026 13:38 UTC, analisando 47 repositorios publicos.</sub>
+<sub>Atualizado automaticamente em 19/09/2026 13:11 UTC, analisando 47 repositorios publicos.</sub>
 <!-- LANG_METRICS_END -->
 
 ---
